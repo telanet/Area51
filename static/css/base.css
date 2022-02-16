@@ -1,0 +1,27 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+:root {
+    --dark-orange: #FE8D01;
+}
+
+.example {
+    --light-black:#2f2a23;
+    --black: #000000;
+    --dark-orange:#ff5302;
+    --orange:#fe8d01;
+    --yellow:#ffd202;
+    --faded-orange:#fe8d01;
+    --faded-yellow:#ffd202; 
+    --gray-bg:#f7f8fc;
+    --dark-gray:#707070;
+    --white:#ffffff;
+    --gradient-yellow:#FFD202;
+    --gradient-orange:#FE8D01;
+    --header-height: 40px;
+    --nav-height:60px;
+    --header-logo-height:140px;
+    --header-search-height:60px;
+    --bread-height:80px;
+}
